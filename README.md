@@ -1,2 +1,3 @@
-# automacao_3INFOA
-automação de tarefas repetitivas 3 INFO A
+# Automação de Tarefas
+
+Repositório que contém arquivos código-fonte das aulas de automação de tarefas.
